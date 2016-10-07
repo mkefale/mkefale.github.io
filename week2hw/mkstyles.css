@@ -1,0 +1,31 @@
+body {
+  background: url('images/background.jpg') no-repeat center center fixed;
+}
+
+h1 {
+  font-family: "PT Sans", sans-serif;
+}
+
+h3 {
+  font-family: "Monserrat", sans-serif;
+  font-size: 1.5em;
+  text-transform: none;
+}
+
+p {
+    font-family: "Muli", sans-serif;
+}
+
+.welcome {
+    font-family: "Cinzel", serif;
+    text-transform: capitalize;
+}
+
+.img-margin {
+  margin: 15px 0;
+}
+
+#panoramic {
+    border-style: solid;
+    border-width: 3px;
+}
